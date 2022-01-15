@@ -22,3 +22,8 @@
 	path = ABC-Strategie-GitHub/abc_branch
 	url = git@github.com:ABC-Strategie-GitHub/abc_branch.git
 	branch = main
+
+[submodule "ABC-Strategie-GitHub/abc_bi_website_sale_multi_branch_app"]
+	path = ABC-Strategie-GitHub/abc_bi_website_sale_multi_branch_app
+	url = git@github.com:ABC-Strategie-GitHub/abc_bi_website_sale_multi_branch_app.git
+	branch = main
